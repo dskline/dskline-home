@@ -1,0 +1,9 @@
+{
+  "expo": {
+    "name": "Home App",
+    "slug": "dskline-home",
+    "android": {
+      "useNextNotificationsApi": true
+    }
+  }
+}
